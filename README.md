@@ -26,4 +26,4 @@ _* You may need to connect to the database using the IP address instead of local
 
 ### OpenAPI Documentation
 
-This project also have Swagger included to generate API docs that fit with the OpenAPI specification (OAS).
+This project also has Swagger included to generate API docs that fit with the OpenAPI specification (OAS).
